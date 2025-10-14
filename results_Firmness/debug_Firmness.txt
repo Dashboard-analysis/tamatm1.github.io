@@ -1,0 +1,91 @@
+===== META-ANALYSIS DEBUG LOG =====
+Sheet: Firmness 
+Exclude 'not' categories: TRUE 
+Generated on 2025-10-14 17:25:56 
+
+STEP A: Loading and cleaning data from sheet: Firmness 
+Initial data: n = 15 , k = 2 
+
+STEP B: Calculating effect sizes and variances
+After cleaning: n = 15 , k = 2 
+
+STEP C: Detecting outliers
+Outliers detected: n = 0
+
+STEP D: Fitting meta-analysis models
+  ✓ Nested model (all data) 
+  ✓ Nested model (outliers removed) 
+  ✓ Study-level model (all data) 
+  ✓ Study-level model (outliers removed) 
+
+STEP E: Calculating heterogeneity measures
+
+STEP F: Conducting sensitivity analyses
+
+STEP G: Extracting comprehensive results
+
+STEP H: Conducting Fail-Safe N analysis
+  ✓ Fail-Safe N analysis completed
+
+STEP I: Creating funnel plots
+  ✓ funnel_nested_all.png 
+  ✓ funnel_nested_no_outliers.png 
+  ✓ funnel_study_all.png 
+  ✓ funnel_study_no_outliers.png 
+
+STEP J: Creating publication-quality forest plots by moderators
+
+STEP J: Creating publication-quality forest plots by moderators
+    Filtered out 15 observations with 'not' in GpH 
+    Insufficient data after filtering for GpH 
+    Filtered out 15 observations with 'not' in GSOM 
+    Insufficient data after filtering for GSOM 
+    Filtered out 7 observations with 'not' in GECe 
+    Filtered out 8 observations with 'not' in Crop type 
+    Filtered out 15 observations with 'not' in GpH 
+    Insufficient data after filtering for GpH 
+    Filtered out 15 observations with 'not' in GSOM 
+    Insufficient data after filtering for GSOM 
+    Filtered out 7 observations with 'not' in GECe 
+    Filtered out 8 observations with 'not' in Crop type 
+  ✓ Firmness_forest_all_data_excluding_not.png 
+  ✓ Firmness_forest_all_data_excluding_not.pdf 
+  ✓ Firmness_forest_no_outliers_excluding_not.png 
+  ✓ Firmness_forest_no_outliers_excluding_not.pdf 
+
+STEP K: Conducting enhanced meta-regression on Nested (No Outliers) model
+
+Running meta-regression on Nested (No Outliers) model:
+  ✗ GMM - insufficient variation after filtering
+  ✗ GMC - insufficient variation after filtering
+  ✗ Gem - insufficient variation after filtering
+  ✗ Arragement - insufficient variation after filtering
+  ✗ GST - insufficient variation after filtering
+    Filtered out 15 observations with 'not' in GpH 
+  ✗ GpH - insufficient variation after filtering
+    Filtered out 15 observations with 'not' in GSOM 
+  ✗ GSOM - insufficient variation after filtering
+    Filtered out 7 observations with 'not' in GECe 
+  ✗ GECe - insufficient variation after filtering
+  ✗ Gbd - insufficient variation after filtering
+  ✓ GCLI - Omnibus p = 0.7405  
+  ✗ GSRain - insufficient variation after filtering
+  ✗ Planting year - Error: <text>:1:15: symbole inattendu
+1: yi ~ Planting year
+                  ^ 
+  ✓ GN - Omnibus p = 0.7405  
+  ✗ Irrigation quality - insufficient variation after filtering
+  ✗ Continent - insufficient variation after filtering
+    Filtered out 8 observations with 'not' in Crop type 
+  ✗ Crop type - insufficient variation after filtering
+
+✓ Meta-regression results (No Outliers) saved
+
+STEP K2: Creating FIXED combined meta-regression visualization
+  No significant moderators to plot
+
+✓ Combined meta-regression visualization completed
+
+STEP L: Comparing models with AIC/BIC
+
+✓ Analysis completed successfully for sheet: Firmness 

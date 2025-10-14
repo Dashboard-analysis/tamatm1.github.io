@@ -1,0 +1,2 @@
+"Outcome","Moderator","Moderator_Display","Level","n_effects","n_studies","B_Coefficient","Estimate_lnRR","Estimate_Percent","SE","CI_Lower","CI_Upper","Z_value","P_Value","Omnibus_QM","Omnibus_P","Model","Combined_Label"
+"Firmness","Planting_year","Planting year","Second",7,2,0.044,0.044,4.5,0.0155,0.0136,0.0743,2.8415,0.0045,10.4461,0.0054,"Nested (Outliers Removed)","Planting year: Second"

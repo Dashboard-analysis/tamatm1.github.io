@@ -1,0 +1,5 @@
+"Outcome","Model","Model_Type","n_Observations","k_Studies","df","LogLikelihood","AIC","BIC","Effect_lnRR","Effect_Percent","Tau2","I2_percent","Q_statistic","Q_pvalue","AIC_Rank","BIC_Rank","Delta_AIC","Delta_BIC","AIC_Weight"
+"Firmness","Nested (All)","Intercept-only",15,2,3,24.6257,-43.2514,-41.3342,0.0156,1.57,0.0015,85.29,165.5384,0,1.5,1.5,0,0,0.5
+"Firmness","Nested (No Outliers)","Intercept-only",15,2,3,24.6257,-43.2514,-41.3342,0.0156,1.57,0.0015,85.29,165.5384,0,1.5,1.5,0,0,0.5
+"Firmness","Study-Level (All)","Intercept-only",2,2,2,2.6925,-1.385,-5.385,0.012,1.21,0,0,0.9797,0.3223,3.5,3.5,41.8664,35.9492,0
+"Firmness","Study-Level (No Outliers)","Intercept-only",2,2,2,2.6925,-1.385,-5.385,0.012,1.21,0,0,0.9797,0.3223,3.5,3.5,41.8664,35.9492,0

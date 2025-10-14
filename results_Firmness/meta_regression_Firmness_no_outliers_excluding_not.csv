@@ -1,0 +1,5 @@
+"Outcome","Moderator","Moderator_Display","Level","n_effects","n_studies","B_Coefficient","Estimate_lnRR","Estimate_Percent","SE","CI_Lower","CI_Upper","Z_value","P_Value","Omnibus_QM","Omnibus_P","Model"
+"Firmness","GCLI","Climate zone","Arid",7,1,0.0267,0.0267,2.71,0.0359,-0.0436,0.097,0.7452,0.4561,0.6009,0.7405,"Nested (Outliers Removed)"
+"Firmness","GCLI","Climate zone","Warm temperate",8,1,0.0074,0.0074,0.75,0.0348,-0.0608,0.0757,0.2133,0.8311,0.6009,0.7405,"Nested (Outliers Removed)"
+"Firmness","GN","Nitrogen","100–200",7,1,0.0267,0.0267,2.71,0.0359,-0.0436,0.097,0.7452,0.4561,0.6009,0.7405,"Nested (Outliers Removed)"
+"Firmness","GN","Nitrogen","200–300",8,1,0.0074,0.0074,0.75,0.0348,-0.0608,0.0757,0.2133,0.8311,0.6009,0.7405,"Nested (Outliers Removed)"

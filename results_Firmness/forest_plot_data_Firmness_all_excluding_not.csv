@@ -1,0 +1,3 @@
+"Moderator","Moderator_Display","Category","n_studies","n_effects","Effect_Size_lnRR","Effect_Size_Percent","CI_Lower_Percent","CI_Upper_Percent","SE","P_Value","Dataset"
+"Planting year","Planting year","First",2,8,-0.00620497084593938,-0.618575976960034,-3.79056064218518,2.65798768574792,0.0165501714916289,0.707720838393924,"Firmness_All"
+"Planting year","Planting year","Second",2,7,0.0401089346349185,4.09241607098414,2.60794057093656,5.59836814972514,0.00732860272711515,4.42653322615339e-08,"Firmness_All"
